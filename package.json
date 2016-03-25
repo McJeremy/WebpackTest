@@ -1,0 +1,19 @@
+{
+  "name": "xuzztest",
+  "version": "1.0.0",
+  "description": "test webpack",
+  "main": "entry.js",
+  "scripts": {
+    "test": "entry.say('a')"
+  },
+  "author": "xuzz",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "css-loader": "^0.23.1",
+    "jsx-loader": "^0.13.2",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.14"
+  }
+}
